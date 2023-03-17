@@ -1,10 +1,10 @@
 # Portfolio Project - Jake Eik
 
-##Description
+## Description
 
 An inprogress living portfolio webpage that displays my currentl level of coding prowess to potential employers. 
 
-##Usage
+## Usage
 
 [Click Here](https://jelloelephant.github.io/challenge-02-portfolio/) to visit my portfolio.
 
@@ -12,6 +12,6 @@ An inprogress living portfolio webpage that displays my currentl level of coding
 
 Original code created by Jake Eik
 
-##License
+## License
 
 Refer to the LISCENSE found in the repo.
